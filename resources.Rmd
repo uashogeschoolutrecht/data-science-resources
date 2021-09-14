@@ -62,8 +62,8 @@ knitr::opts_chunk$set(echo = TRUE)
  
 # Natural Language Processing
 
- [spacy](https://spacy.io/)
- [https://scikit-learn.org/stable/]
+ - [spacy](https://spacy.io/)
+ - [scikit-learn](https://scikit-learn.org/stable/)
 
 # Live Courses and conferences
 
@@ -76,3 +76,19 @@ knitr::opts_chunk$set(echo = TRUE)
  - [Applied Predictive Modelling](http://appliedpredictivemodeling.com/)
  - [R Series](https://www.routledge.com/Chapman--HallCRC-The-R-Series/book-series/CRCTHERSER?a=1&pg=4&gclid=Cj0KCQjw-NaJBhDsARIsAAja6dMabjgxY0cxKoZQNDI0e7pdJcqB080chcNsYbVx6vxuwHqGvP8SpWQaAvFzEALw_wcB)
  - [Manning](https://www.manning.com/)
+
+# NLP - model building
+
+
+# NLP - transformers
+
+
+# NLP - causal relationships / dependency parsing
+
+ - https://universaldependencies.org/
+ - https://doi.org/10.1186/s12911-019-0785-0
+ - 
+
+
+
+
