@@ -89,6 +89,11 @@ knitr::opts_chunk$set(echo = TRUE)
  - https://doi.org/10.1186/s12911-019-0785-0
  - 
 
+# Graph theory
+
+Look here for examples on communities in graphs 
+
+ - [tidytext](https://www.data-imaginist.com/2017/introducing-tidygraph/)
 
 
 
