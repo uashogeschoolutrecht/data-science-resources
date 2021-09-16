@@ -87,7 +87,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
  - https://universaldependencies.org/
  - https://doi.org/10.1186/s12911-019-0785-0
- - 
+ - [Paper: Automated Extraction of Causal Relations from Text for Teaching Surgical Concepts](https://www.researchgate.net/profile/Natchalee-Srimaneekarn-2/publication/350027646_Automated_Extraction_of_Causal_Relations_from_Text_for_Teaching_Surgical_Concepts/links/60c993c9299bf108abdd3aae/Automated-Extraction-of-Causal-Relations-from-Text-for-Teaching-Surgical-Concepts.pdf)
+  - [Paper: Automatic detection of causality in requirement artifacts: the cira approach](https://arxiv.org/pdf/2101.10766)
+  - [Paper: Extracting causal claims from information systems papers with natural language processing for theory ontology learning](https://scholarspace.manoa.hawaii.edu/bitstream/10125/50549/1/paper0662.pdf)
 
 # Graph theory
 
