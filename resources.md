@@ -60,8 +60,8 @@ output:
  
 # Natural Language Processing
 
- [spacy](https://spacy.io/)
- [https://scikit-learn.org/stable/]
+ - [spacy](https://spacy.io/)
+ - [scikit-learn](https://scikit-learn.org/stable/)
 
 # Live Courses and conferences
 
@@ -74,3 +74,26 @@ output:
  - [Applied Predictive Modelling](http://appliedpredictivemodeling.com/)
  - [R Series](https://www.routledge.com/Chapman--HallCRC-The-R-Series/book-series/CRCTHERSER?a=1&pg=4&gclid=Cj0KCQjw-NaJBhDsARIsAAja6dMabjgxY0cxKoZQNDI0e7pdJcqB080chcNsYbVx6vxuwHqGvP8SpWQaAvFzEALw_wcB)
  - [Manning](https://www.manning.com/)
+
+# NLP - model building
+
+
+# NLP - transformers
+
+
+# NLP - causal relationships / dependency parsing
+
+ - https://universaldependencies.org/
+ - https://doi.org/10.1186/s12911-019-0785-0
+ - [Paper: Automated Extraction of Causal Relations from Text for Teaching Surgical Concepts](https://www.researchgate.net/profile/Natchalee-Srimaneekarn-2/publication/350027646_Automated_Extraction_of_Causal_Relations_from_Text_for_Teaching_Surgical_Concepts/links/60c993c9299bf108abdd3aae/Automated-Extraction-of-Causal-Relations-from-Text-for-Teaching-Surgical-Concepts.pdf)
+  - [Paper: Automatic detection of causality in requirement artifacts: the cira approach](https://arxiv.org/pdf/2101.10766)
+  - [Paper: Extracting causal claims from information systems papers with natural language processing for theory ontology learning](https://scholarspace.manoa.hawaii.edu/bitstream/10125/50549/1/paper0662.pdf)
+
+# Graph theory
+
+Look here for examples on communities in graphs 
+
+ - [tidytext](https://www.data-imaginist.com/2017/introducing-tidygraph/)
+
+
+
