@@ -60,8 +60,27 @@ output:
  
 # Natural Language Processing
 
- [spacy](https://spacy.io/)
- [https://scikit-learn.org/stable/]
+## Tools & packages
+
+ - [spacy](https://spacy.io/)
+ - [scikit-learn](https://scikit-learn.org/stable/)
+
+## Model building
+
+
+## Transformers
+
+
+## Causal relationships / dependency parsing
+
+ - https://universaldependencies.org/
+ - https://doi.org/10.1186/s12911-019-0785-0
+ - [Causal Relation Extraction Using Cue Phrase and Lexical Pair Probabilities](http://semanticweb.kaist.ac.kr/home/images/a/af/Causal_Relation_Extraction_Using_Cue_Phrases_and_Lexical_Pair_Probabilities.pdf)
+ - [Automatic Extraction of Causal Relations from Natural Language Texts: A Comprehensive Survey](https://arxiv.org/pdf/1605.07895.pdf)
+ - [A Survey on Extraction of Causal Relations from Natural Language Text](https://arxiv.org/pdf/2101.06426.pdf)
+ - [Toward a Useful Concept of Causality for Lexical Semantics](https://www.isi.edu/~hobbs/causality-jos.pdf)
+ 
+
 
 # Live Courses and conferences
 
@@ -74,3 +93,14 @@ output:
  - [Applied Predictive Modelling](http://appliedpredictivemodeling.com/)
  - [R Series](https://www.routledge.com/Chapman--HallCRC-The-R-Series/book-series/CRCTHERSER?a=1&pg=4&gclid=Cj0KCQjw-NaJBhDsARIsAAja6dMabjgxY0cxKoZQNDI0e7pdJcqB080chcNsYbVx6vxuwHqGvP8SpWQaAvFzEALw_wcB)
  - [Manning](https://www.manning.com/)
+
+
+
+# Graph theory
+
+Look here for examples on communities in graphs 
+
+ - [tidytext](https://www.data-imaginist.com/2017/introducing-tidygraph/)
+
+
+
